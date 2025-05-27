@@ -17,14 +17,14 @@ Dalam proyek ini, dikembangkan sistem klasifikasi anemia menggunakan machine lea
 ### Problem Statements
 -	Bagaimana cara mengembangkan model machine learning yang mampu mengklasifikasikan jenis anemia berdasarkan data hasil tes darah lengkap (CBC)?
 -	Model algoritma machine learning apa yang memberikan hasil terbaik dalam klasifikasi jenis anemia pada dataset ini?
--	Seberapa besar peningkatan akurasi model klasifikasi setelah dilakukan proses hyperparameter tuning?
 - Bagaimana melakukan evaluasi menyeluruh terhadap performa model agar dapat memastikan klasifikasi jenis anemia berjalan optimal?
+-	Seberapa besar peningkatan akurasi model klasifikasi setelah dilakukan proses hyperparameter tuning?
 
 ### Goals
 -	Membangun model klasifikasi machine learning yang dapat secara akurat mengidentifikasi jenis anemia menggunakan data CBC.
 -	Membandingkan performa beberapa algoritma ML untuk klasifikasi jenis anemia.
--	Meningkatkan performa model melalui proses hyperparameter tuning.
 -	Melakukan evaluasi menyeluruh terhadap performa model menggunakan berbagai metrik seperti akurasi, presisi, recall, F1-score, dan confusion matrix untuk memastikan model bekerja secara optimal dan seimbang dalam mengklasifikasikan jenis anemia.
+-	Meningkatkan performa model melalui proses hyperparameter tuning.
 
 ### Solution Statement
 -	Penggunaan beragam algoritma machne learning
