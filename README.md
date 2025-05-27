@@ -79,7 +79,7 @@ Informasi statistik pada masing masing kolom :
 
 ![image](https://github.com/user-attachments/assets/fa5aab7d-9c32-4adf-8cc6-6e8cf659aa7e)
 
-Grafik di atas menunjukkan distribusi jumlah kasus untuk setiap kategori diagnosis anemia. Dari grafik tersebut, terlihat bahwa kategori dengan jumlah kasus terbanyak adalah Healthy sebanyak 323 kasus, diikuti oleh Normocytic hypochromic anemia sebanyak 271 kasus dan Normocytic normochromic anemia sebanyak 255 kasus. Sementara itu, beberapa kategori memiliki jumlah kasus yang relatif sedikit, seperti Leukemia with thrombocytopenia (11 kasus), Macrocytic anemia (16 kasus), dan Leukemia (44 kasus). 
+Grafik di atas menunjukkan distribusi jumlah kasus untuk setiap kategori diagnosis anemia. Dari grafik tersebut, terlihat bahwa kategori dengan jumlah kasus terbanyak adalah Healthy sebanyak 323 kasus, diikuti oleh Normocytic hypochromic anemia sebanyak 271 kasus dan Normocytic normochromic anemia sebanyak 255 kasus. Sementara itu, beberapa kategori memiliki jumlah kasus yang relatif sedikit, seperti Leukemia with thrombocytopenia (11 kasus), Macrocytic anemia (16 kasus), dan Leukemia (44 kasus).      
 
  ![image](https://github.com/user-attachments/assets/bb306779-5f48-466b-ac0f-fbb1d995b0f9)
 
