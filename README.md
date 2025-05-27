@@ -1,6 +1,6 @@
 # Laporan Proyek Machine Learning Terapan | Husnul Khatimah
 
-# link file readme.md di github : [https://github.com/husnlkhatmh/ml-terapan1  ](https://github.com/husnlkhatmh/machine-learning-terapan1)
+# link file readme.md di github : https://github.com/husnlkhatmh/machine-learning-terapan1
  
 ## Domain Proyek : Kesehatan (🧬Klasifikasi Jenis Anemia) 
 
